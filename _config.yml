@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 晨曦公司
+title: 晨曦有限公司
 subtitle:
 description:
 keywords:
-author: John Doe
+author: 晨曦
 language: zh-CN
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://wzhct.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -80,3 +80,4 @@ theme: hexo-theme-miho
 deploy:
   type: git
   repo: https://github.com/wzhct/wzhct.github.io.git
+  branch: master

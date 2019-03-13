@@ -44,18 +44,18 @@ social:
     title: MinHow
     url: //minhow.com
     target: true
-  github:
-    title: Github
-    url: //github.com/wongminho
-    target: true
-  weibo:
-    title: Weibo
-    url: //weibo.com/WongMinHo
-    target: true
-  twitter:
-    title: Twitter
-    url: //twitter.com/huangminhow
-    target: true
+ # github:
+ #   title: Github
+ #   url: //github.com/wongminho
+ #   target: true
+ # weibo:
+ #   title: Weibo
+ #   url: //weibo.com/WongMinHo
+ #   target: true
+ #  twitter:
+  #  title: Twitter
+  #  url: //twitter.com/huangminhow
+   # target: true
   #qq:
   #weixin:
   #snapchat:
